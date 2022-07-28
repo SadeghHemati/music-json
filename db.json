@@ -1,0 +1,21 @@
+{
+    "songs": [
+        {
+            "id":1,
+            "name":"happier than ever",
+            "album":"happier than ever",
+            "date":{
+                "day":30,
+                "month":7,
+                "year":2021
+            },
+            "cover":"src/images/song/happier than ever.jpg",
+            "src":"src/musics/happier than ever.mp3",
+            "duration":{
+                "minutes":4,
+                "seconds":58
+            },
+            "liked":false
+        }
+    ]
+  }
