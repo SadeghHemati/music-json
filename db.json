@@ -1,21 +1,237 @@
 {
     "songs": [
         {
-            "id":1,
-            "name":"happier than ever",
-            "album":"happier than ever",
-            "date":{
-                "day":30,
-                "month":7,
-                "year":2021
-            },
-            "cover":"src/images/song/happier than ever.jpg",
-            "src":"src/musics/happier than ever.mp3",
-            "duration":{
-                "minutes":4,
-                "seconds":58
-            },
-            "liked":false
+            "id": 1,
+            "name": "happier than ever",
+            "album": "happier than ever",
+            "artist": [
+                "billie eilish"
+            ],
+            "cover": "src/images/song/happier than ever.jpg",
+            "duration": {
+                "minutes": 4,
+                "seconds": 58
+            }
+        },
+        {
+            "id": 2,
+            "name": "therefore i am",
+            "album": "happier than ever",
+            "artist": [
+                "billie eilish"
+            ],
+
+            "cover": "src/images/song/happier than ever.jpg",
+            "duration": {
+                "minutes": 2,
+                "seconds": 54
+            }
+        },
+        {
+            "id": 3,
+            "name": "oxytocin",
+            "album": "happier than ever",
+            "artist": [
+                "billie eilish"
+            ],
+
+            "cover": "src/images/song/happier than ever.jpg",
+            "duration": {
+                "minutes": 3,
+                "seconds": 30
+            }
+        },
+        {
+            "id": 4,
+            "name": "i didnt change my number",
+            "album": "happier than ever",
+            "artist": [
+                "billie eilish"
+            ],
+
+            "cover": "src/images/song/happier than ever.jpg",
+            "duration": {
+                "minutes": 2,
+                "seconds": 38
+            }
+        },
+        {
+            "id": 5,
+            "name": "getting older",
+            "album": "happier than ever",
+            "artist": [
+                "billie eilish"
+            ],
+            "cover": "src/images/song/happier than ever.jpg",
+            "duration": {
+                "minutes": 4,
+                "seconds": 4
+            }
+        },
+        {
+            "id": 6,
+            "name": "every body dies",
+            "album": "happier than ever",
+            "artist": [
+                "billie eilish"
+            ],
+
+            "cover": "src/images/song/happier than ever.jpg",
+            "duration": {
+                "minutes": 3,
+                "seconds": 26
+            }
+        },
+        {
+            "id": 7,
+            "name": "brutal",
+            "album": "sour",
+            "artist": [
+                "olivia rodrigo"
+            ],
+
+            "cover": "src/images/song/sour.jpg",
+            "duration": {
+                "minutes": 2,
+                "seconds": 27
+            }
+        },
+        {
+            "id": 8,
+            "name": "deja vu",
+            "album": "sour",
+            "artist": [
+                "olivia rodrigo"
+            ],
+
+            "cover": "src/images/song/sour.jpg",
+            "duration": {
+                "minutes": 3,
+                "seconds": 38
+            }
+        },
+        {
+            "id": 9,
+            "name": "happier",
+            "album": "sour",
+            "artist": [
+                "olivia rodrigo"
+            ],
+
+            "cover": "src/images/song/sour.jpg",
+            "duration": {
+                "minutes": 2,
+                "seconds": 59
+            }
+        },
+        {
+            "id": 10,
+            "name": "jealousy,jealousy",
+            "album": "sour",
+            "artist": [
+                "olivia rodrigo"
+            ],
+            "cover": "src/images/song/sour.jpg",
+            "duration": {
+                "minutes": 2,
+                "seconds": 27
+            }
+        },
+        {
+            "id": 11,
+            "name": "enemy",
+            "album": "arcane league of legends",
+            "artist": [
+                "imagine dragons",
+                "jid"
+            ],
+            "cover": "src/images/song/enemy.jpg",
+            "duration": {
+                "minutes": 2,
+                "seconds": 53
+            }
+        },
+        {
+            "id": 12,
+            "name": "alone again",
+            "album": "after hours",
+            "artist": [
+                "weeknd"
+            ],
+
+            "cover": "src/images/song/after hours.jpg",
+            "duration": {
+                "minutes": 4,
+                "seconds": 10
+            }
+        },
+        {
+            "id": 13,
+            "name": "too late",
+            "album": "after hours",
+            "artist": [
+                "weeknd"
+            ],
+
+            "cover": "src/images/song/after hours.jpg",
+            "duration": {
+                "minutes": 4,
+                "seconds": 0
+            }
+        },
+        {
+            "id": 14,
+            "name": "hardest to love",
+            "album": "after hours",
+            "artist": [
+                "weeknd"
+            ],
+
+            "cover": "src/images/song/after hours.jpg",
+            "duration": {
+                "minutes": 3,
+                "seconds": 31
+            }
+        },
+        {
+            "id": 15,
+            "name": "blinding lights",
+            "album": "after hours",
+            "artist": [
+                "weeknd"
+            ],
+
+            "cover": "src/images/song/after hours.jpg",
+            "duration": {
+                "minutes": 3,
+                "seconds": 20
+            }
+        },
+        {
+            "id": 16,
+            "name": "save your tears",
+            "album": "after hours",
+            "artist": [
+                "weeknd"
+            ],
+            "cover": "src/images/song/after hours.jpg",
+            "duration": {
+                "minutes": 3,
+                "seconds": 35
+            }
+        },
+        {
+            "id": 16,
+            "name": "after hours",
+            "album": "after hours",
+            "artist": [
+                "weeknd"
+            ],
+            "cover": "src/images/song/after hours.jpg",
+            "duration": {
+                "minutes": 6,
+                "seconds": 1
+            }
         }
     ]
-  }
+}
